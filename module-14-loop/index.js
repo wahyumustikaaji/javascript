@@ -27,7 +27,7 @@ const object = {
     nama: "Budi",
     umur: 20,
 }
-
+ 
 for (let properti in object){
     console.log(`${properti}: ${object[properti]}`)
 }
